@@ -1,0 +1,16 @@
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.exe
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.deps.json
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.runtimeconfig.json
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.runtimeconfig.dev.json
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.dll
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\ref\AnimalBehaviour.dll
+C:\TDD\AnimalBehaviour\AnimalBehaviour\bin\Debug\net5.0\AnimalBehaviour.pdb
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.AssemblyInfoInputs.cache
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.AssemblyInfo.cs
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.csproj.CoreCompileInputs.cache
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.dll
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\ref\AnimalBehaviour.dll
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.pdb
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.genruntimeconfig.cache
+C:\TDD\AnimalBehaviour\AnimalBehaviour\obj\Debug\net5.0\AnimalBehaviour.csproj.AssemblyReference.cache
